@@ -1,0 +1,15 @@
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\bin\Debug\SocketsConnection.dll
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\bin\Debug\SocketsConnection.pdb
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\bin\Debug\SocketsConnection.SocketsConnection.apk
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\bin\Debug\SocketsConnection.SocketsConnection-Signed.apk
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\obj\Debug\SocketsConnection.csprojResolveAssemblyReference.cache
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\obj\Debug\SocketsConnection.dll
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\obj\Debug\SocketsConnection.pdb
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\obj\Debug\android\bin\SocketsConnection.SocketsConnection.apk
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\obj\Debug\res\layout\main.xml
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\obj\Debug\res\values\strings.xml
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\obj\Debug\res\drawable\icon.png
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\obj\Debug\R.cs.flag
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\obj\Debug\uploadflags.txt
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\bin\Debug\SocketsConnection.dll.mdb
+C:\Users\ronal\Documents\Visual Studio 2017\Projects\SocketsConnection\SocketsConnection\obj\Debug\android\assets\SocketsConnection.dll.mdb
